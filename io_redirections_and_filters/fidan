@@ -1,4 +1,0 @@
-#!/bin/bash
-git add .
-git commit -m "nese yaz bura kommit yerine men 'kef ele yazmisam'"
-git push
